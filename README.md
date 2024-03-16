@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Godisdeas
 - 👀 I’m interested in Game development, Data Science, Web development
-- 🌱 I’m currently learning javascript, C, react
-- 💞️ I’m looking to collaborate on developing an app for my first ever project
+- 🌱 I’m currently learning javascript, Java, Python
 - 📫 How to reach me email: soumyasankarpaul@gmail.com
 
 <!---
