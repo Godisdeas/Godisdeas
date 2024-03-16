@@ -4,6 +4,9 @@ public class Ceiling {
 
         int s = 0;
         int e = arr.length - 1;
+        if(target > arr[e]){
+            System.out.print("Ceiling not Found"); }
+        else{
         while(s<=e){
             int mid = s + (e-s)/2;
 
@@ -19,6 +22,7 @@ public class Ceiling {
 
         }
         return s;
+        }
 
     }
     public static void main(String[] args) {
